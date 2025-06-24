@@ -7,11 +7,13 @@ Here are some of the places where I practice and share my work:
 
 ### 💻 Coding Platforms
 
-- 🚀 **LeetCode**: [leetcode.com/ayushrauthan](https://leetcode.com/ayushrauthan_100/)
-- 📊 **GitHub Stats**:   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushrauthan&show_icons=true&theme=radical)
+- 🚀 **LeetCode**: [leetcode.com/ayushrauthan_100](https://leetcode.com/ayushrauthan_100/)
+- 📊 **GitHub Stats**:
+   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushrauthan&show_icons=true&theme=radical)
  
 
-- 🔢 **LeetCode Stats Card**:   ![LeetCode Stats](https://leetcard.jacoblin.cool/ayushrauthan_100?theme=light&font=Source%20Code%20Pro)
+- 🔢 **LeetCode Stats Card**:
+   ![LeetCode Stats](https://leetcard.jacoblin.cool/ayushrauthan_100?theme=light&font=Source%20Code%20Pro)
   
 
 
