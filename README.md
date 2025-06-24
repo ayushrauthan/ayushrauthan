@@ -1,16 +1,30 @@
-## Hi there 👋
+## 👋 Hi, I'm Ayush Singh Rauthan
 
-<!--
-**ayushrauthan/ayushrauthan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love solving algorithmic problems and building cool projects.  
+Here are some of the places where I practice and share my work:
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Coding Platforms
+
+- 🚀 **LeetCode**: [leetcode.com/ayushrauthan](https://leetcode.com/ayushrauthan_100/)
+- 📊 **GitHub Stats**:
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushrauthan&show_icons=true&theme=radical)
+
+- 🔢 **LeetCode Stats Card**:
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/ayushrauthan_100?theme=light&font=Source%20Code%20Pro)
+
+---
+
+### 🧑‍💻 Projects
+
+- 🎬 Movie Info App using OMDB API
+- 🎮 SwiftRoute (A web based application to solve TSP using Genetic Algorithm)
+- 🌐 Portfolio Website (in progress)
+
+---
+
+### 📫 Reach Me
+- Email: ayush232005@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ayush-singh-rauthan-57a3902b4/
+
