@@ -14,8 +14,6 @@ Here are some of the places where I practice and share my work:
 - 🔢 **LeetCode Stats Card**:
   ![LeetCode Stats](https://leetcard.jacoblin.cool/ayushrauthan_100?theme=light&font=Source%20Code%20Pro)
 
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/ayushrauthan_100)
-
 
 ---
 
